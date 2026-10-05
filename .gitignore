@@ -1,0 +1,6 @@
+dist/
+node_modules/
+
+# Local QA captures and reports can contain private Jira and BB data.
+qa/
+.DS_Store
